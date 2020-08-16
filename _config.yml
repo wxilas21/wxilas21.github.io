@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Programmer, C/C++, C#, win32, winsock, Dotnet Core "
   location         : "South Korea"
-  email            : "wxilas21@outlook.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

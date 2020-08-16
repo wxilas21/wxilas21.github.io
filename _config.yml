@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Kim Hyun"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://avatars1.githubusercontent.com/u/16443513?s=400&v=4" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Programmer, C/C++, C#, win32, winsock, Dotnet Core "
   location         : "South Korea"
   email            : 

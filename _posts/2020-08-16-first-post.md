@@ -1,6 +1,6 @@
 ---
 title: "Open Github blog!"
-date: 2020-08-16 15:52:00 +0900
+date: 2018-08-16 15:52:00 +0900
 # categories: Notice
 ---
 
